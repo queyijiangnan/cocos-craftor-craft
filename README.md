@@ -1,2 +1,2 @@
-# cocos-craftor-craft
+# cocos-creator-craft
 Typescript
